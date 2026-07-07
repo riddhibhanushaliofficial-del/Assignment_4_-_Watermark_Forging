@@ -4,7 +4,7 @@ import requests
 from pathlib import Path
 
 BASE_URL = "http://34.63.153.158"  # donot change
-API_KEY  = "YOUR_API_KEY_HERE"      # REPLACE WITH YOUR API KEY
+API_KEY  = "fd707d59d8b4717f2b851925a37471d8"      # REPLACE WITH YOUR API KEY
 TASK_ID   = "22-forging-task"       # donot change
 FILE_PATH = Path("submission.zip")  # produced by task_template.py
 SUBMIT = True                       # set to True to enable submission
